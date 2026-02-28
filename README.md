@@ -2,29 +2,24 @@
 
 Digital logic project built in CircuitVerse.
 
-## Overview
+## Live simulation (CircuitVerse)
+Open and run the project here:
+https://circuitverse.org/users/284358/projects/105-2023-audio-feedback-suppression-controller
 
-This project implements a controller that helps suppress audio feedback (microphone–speaker loop).
-The circuit processes control signals and manages the system to prevent unwanted sound amplification.
+> Tip: You can also add a clickable preview image:
+> [![Circuit preview](screenshots/YOUR_SCREENSHOT.png)](https://circuitverse.org/users/284358/projects/105-2023-audio-feedback-suppression-controller)
 
-## Features
+## Open offline (.cv file)
+If you want to open the project from this repository:
+1. Download: `AUDIO FEEDBACK SUPPRESSION CONTROLLER.cv`
+   - Open the file in GitHub, then click **Raw** (or Download).
+2. Go to https://circuitverse.org
+3. In CircuitVerse, use **Load Offline** (or Import/Load project) and select the downloaded `.cv` file.
 
-* Digital control logic
-* Register-based signal handling
-* Clock-driven operation
-* Enable/disable logic
-
-## Built With
-
-* CircuitVerse
-
-## How to Run
-
-1. Download the `.cv` file from this repository.
-2. Open CircuitVerse.
-3. Go to **Main → Import file**.
-4. Select the project file.
+## Repository contents
+- `AUDIO FEEDBACK SUPPRESSION CONTROLLER.cv` — CircuitVerse project file (JSON).
+- `README.md` — This documentation.
+- `screenshots/` — Images of the circuit / outputs.
 
 ## Author
-
 Aleksandra Hristovska
