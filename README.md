@@ -6,9 +6,6 @@ Digital logic project built in CircuitVerse.
 Open and run the project here:
 https://circuitverse.org/users/284358/projects/105-2023-audio-feedback-suppression-controller
 
-> Tip: You can also add a clickable preview image:
-> [![Circuit preview](screenshots/YOUR_SCREENSHOT.png)](https://circuitverse.org/users/284358/projects/105-2023-audio-feedback-suppression-controller)
-
 ## Open offline (.cv file)
 If you want to open the project from this repository:
 1. Download: `AUDIO FEEDBACK SUPPRESSION CONTROLLER.cv`
