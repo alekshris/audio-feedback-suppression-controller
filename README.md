@@ -13,10 +13,5 @@ If you want to open the project from this repository:
 2. Go to https://circuitverse.org
 3. In CircuitVerse, use **Load Offline** (or Import/Load project) and select the downloaded `.cv` file.
 
-## Repository contents
-- `AUDIO FEEDBACK SUPPRESSION CONTROLLER.cv` — CircuitVerse project file (JSON).
-- `README.md` — This documentation.
-- `screenshots/` — Images of the circuit / outputs.
-
 ## Author
 Aleksandra Hristovska
